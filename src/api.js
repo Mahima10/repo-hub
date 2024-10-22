@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://api.github.com/orgs/godaddy"
+const API_BASE_URL = "https://api.github.com/orgs/{organization_name}"
 
 export const fetchRepos = async () => {
     try {

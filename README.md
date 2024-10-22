@@ -8,7 +8,7 @@ This project is a React-based repository hub that allows users to browse a list 
 - [Project Structure](#project-structure)
 
 ## Features
-- **Repository List**: Browse a collection of repositories hosted on GoDaddy.
+- **Repository List**: Browse a collection of repositories hosted on your platform.
 - **Detailed Repository View**: Click on a repository to see additional information, including:
     - Title
     - Description
